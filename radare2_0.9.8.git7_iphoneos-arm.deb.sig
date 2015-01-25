@@ -1,2 +1,2 @@
-untrusted comment: signature from pancake@radare2 secret key
-RWTXr+OqQOhnfyKVVZ1KBbgFohT4kHR0wYiJzcjIKFUugS/ll9TzW2zkiEpBo3EBzEai/k0ZoOv0flppX7n/Z++Q84lnQAjU6gE=
+untrusted comment: signature from trufae@radare2 secret key
+RWTco22PceD8OSY2P24EUXcEnwG+SYkeSQ1PgDVez5aSIcYPinAmJSKqevPgaycztGy3MLYE35O7j1EWBVN/+sTo55FDI3A+pQk=
